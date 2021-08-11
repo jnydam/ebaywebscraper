@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ebay Test Suite">
+
+  <test name="verifyEbayHomePageTest">
+  	<classes>
+  		<class name="testCases.verifyEbayHomePageTest"></class>
+  	</classes>
+  </test>
+  
+  <test name="retrieveFirstItemsTest">
+	  <classes>
+	  	<class name="testCases.retrieveFirstItemsTest"></class>
+	  </classes>
+  </test>
+  
+  <test name="pricesTeamSportGoodsFirstPageTest">
+  	  <classes>
+  	  	<class name="testCases.pricesTeamSportGoodsFirstPageTest"></class>
+  	  </classes>
+  </test>
+  
+  
+</suite>
+
