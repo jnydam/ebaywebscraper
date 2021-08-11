@@ -4,8 +4,16 @@ import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
 
+/**
+ * The Listeners class which is the TestNG listener
+ * for the framework, implementing the ITestListener class
+ *
+ * @author johnnydam
+ *
+ */
 public class Listeners implements ITestListener {
 
+	
 	@Override
 	public void onTestStart(ITestResult result) {
 		// TODO Auto-generated method stub

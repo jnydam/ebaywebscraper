@@ -96,7 +96,9 @@ public class EbayHomePage {
 	/**
 	 * The clickableElectronicsLinkElement() method which checks whether the electronics
 	 * link tab is clickable o the Ebay Home Page
-	 * @return
+	 * 
+	 * @return -- a boolean which returns whether the electronics tab link element
+	 * is clickable
 	 */
 	public boolean clickableElectronicsLinkElement() {
 		
@@ -117,6 +119,13 @@ public class EbayHomePage {
 		return ElementHelper.elementPresent(searchInputLocation, this.driver);
 	}
 	
+	/**
+	 * The textInputSearchInputElement() method which inputs text into the 
+	 * search input element on the Ebay Home Page
+	 * 
+	 * @param data - a string which represents the data which will be inserted
+	 * into the search input element.
+	 */
 	public void textInputSearchInputElement(String data) {
 		
 		this.driver.findElement(searchInputLocation).sendKeys(data);

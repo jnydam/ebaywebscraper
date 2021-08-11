@@ -7,11 +7,27 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
+/**
+ * The Base class which acts as the parent class that
+ * all of the test cases will inherit off of. 
+ * 
+ * This is because each test case will use the initializeDriver() method to 
+ * configure the Chrome web driver instance before the test case starts up.
+ * 
+ * @author johnnydam
+ *
+ */
 public class Base {
 	
 	public WebDriver driver;
 	
 	
+	/**
+	 * The initializeDriver() method which returns a WebDriver instance that 
+	 * will be used for a specific test case
+	 * 
+	 * @return -- a WebDriver object which will be used for the associated test case.
+	 */
 	public WebDriver initializeDriver() {
 		
 		

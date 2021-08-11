@@ -2,52 +2,52 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-08-10T22:57:31 EDT" name="Ebay Test Suite" finished-at="2021-08-10T22:57:46 EDT" duration-ms="15029">
+  <suite started-at="2021-08-10T23:16:48 EDT" name="Ebay Test Suite" finished-at="2021-08-10T23:17:02 EDT" duration-ms="14828">
     <groups>
     </groups>
-    <test started-at="2021-08-10T22:57:31 EDT" name="verifyEbayHomePageTest" finished-at="2021-08-10T22:57:35 EDT" duration-ms="4032">
+    <test started-at="2021-08-10T23:16:48 EDT" name="verifyEbayHomePageTest" finished-at="2021-08-10T23:16:51 EDT" duration-ms="3464">
       <class name="testCases.verifyEbayHomePageTest">
-        <test-method is-config="true" signature="preClass()[pri:0, instance:testCases.verifyEbayHomePageTest@691a7f8f]" started-at="2021-08-10T22:57:31 EDT" name="preClass" finished-at="2021-08-10T22:57:34 EDT" duration-ms="2623" status="PASS">
+        <test-method is-config="true" signature="preClass()[pri:0, instance:testCases.verifyEbayHomePageTest@50a7bc6e]" started-at="2021-08-10T23:16:48 EDT" name="preClass" finished-at="2021-08-10T23:16:50 EDT" duration-ms="2168" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preClass -->
-        <test-method signature="verifyEbayHomePageTest()[pri:0, instance:testCases.verifyEbayHomePageTest@691a7f8f]" started-at="2021-08-10T22:57:34 EDT" name="verifyEbayHomePageTest" finished-at="2021-08-10T22:57:35 EDT" duration-ms="1201" status="PASS">
+        <test-method signature="verifyEbayHomePageTest()[pri:0, instance:testCases.verifyEbayHomePageTest@50a7bc6e]" started-at="2021-08-10T23:16:50 EDT" name="verifyEbayHomePageTest" finished-at="2021-08-10T23:16:51 EDT" duration-ms="1144" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyEbayHomePageTest -->
-        <test-method is-config="true" signature="postClass()[pri:0, instance:testCases.verifyEbayHomePageTest@691a7f8f]" started-at="2021-08-10T22:57:35 EDT" name="postClass" finished-at="2021-08-10T22:57:35 EDT" duration-ms="189" status="PASS">
+        <test-method is-config="true" signature="postClass()[pri:0, instance:testCases.verifyEbayHomePageTest@50a7bc6e]" started-at="2021-08-10T23:16:51 EDT" name="postClass" finished-at="2021-08-10T23:16:51 EDT" duration-ms="135" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postClass -->
       </class> <!-- testCases.verifyEbayHomePageTest -->
     </test> <!-- verifyEbayHomePageTest -->
-    <test started-at="2021-08-10T22:57:35 EDT" name="retrieveFirstItemsTest" finished-at="2021-08-10T22:57:40 EDT" duration-ms="4760">
+    <test started-at="2021-08-10T23:16:51 EDT" name="retrieveFirstItemsTest" finished-at="2021-08-10T23:16:56 EDT" duration-ms="5215">
       <class name="testCases.retrieveFirstItemsTest">
-        <test-method is-config="true" signature="preClass()[pri:0, instance:testCases.retrieveFirstItemsTest@fdefd3f]" started-at="2021-08-10T22:57:35 EDT" name="preClass" finished-at="2021-08-10T22:57:36 EDT" duration-ms="1124" status="PASS">
+        <test-method is-config="true" signature="preClass()[pri:0, instance:testCases.retrieveFirstItemsTest@d83da2e]" started-at="2021-08-10T23:16:51 EDT" name="preClass" finished-at="2021-08-10T23:16:52 EDT" duration-ms="1155" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preClass -->
-        <test-method signature="retrieveFirstItemsTest()[pri:0, instance:testCases.retrieveFirstItemsTest@fdefd3f]" started-at="2021-08-10T22:57:36 EDT" name="retrieveFirstItemsTest" finished-at="2021-08-10T22:57:40 EDT" duration-ms="3506" status="PASS">
+        <test-method signature="retrieveFirstItemsTest()[pri:0, instance:testCases.retrieveFirstItemsTest@d83da2e]" started-at="2021-08-10T23:16:52 EDT" name="retrieveFirstItemsTest" finished-at="2021-08-10T23:16:56 EDT" duration-ms="3907" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- retrieveFirstItemsTest -->
-        <test-method is-config="true" signature="postClass()[pri:0, instance:testCases.retrieveFirstItemsTest@fdefd3f]" started-at="2021-08-10T22:57:40 EDT" name="postClass" finished-at="2021-08-10T22:57:40 EDT" duration-ms="130" status="PASS">
+        <test-method is-config="true" signature="postClass()[pri:0, instance:testCases.retrieveFirstItemsTest@d83da2e]" started-at="2021-08-10T23:16:56 EDT" name="postClass" finished-at="2021-08-10T23:16:56 EDT" duration-ms="153" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postClass -->
       </class> <!-- testCases.retrieveFirstItemsTest -->
     </test> <!-- retrieveFirstItemsTest -->
-    <test started-at="2021-08-10T22:57:40 EDT" name="pricesTeamSportGoodsFirstPageTest" finished-at="2021-08-10T22:57:46 EDT" duration-ms="6200">
+    <test started-at="2021-08-10T23:16:56 EDT" name="pricesTeamSportGoodsFirstPageTest" finished-at="2021-08-10T23:17:02 EDT" duration-ms="6123">
       <class name="testCases.pricesTeamSportGoodsFirstPageTest">
-        <test-method is-config="true" signature="preClass()[pri:0, instance:testCases.pricesTeamSportGoodsFirstPageTest@78047b92]" started-at="2021-08-10T22:57:40 EDT" name="preClass" finished-at="2021-08-10T22:57:41 EDT" duration-ms="1155" status="PASS">
+        <test-method is-config="true" signature="preClass()[pri:0, instance:testCases.pricesTeamSportGoodsFirstPageTest@8909f18]" started-at="2021-08-10T23:16:56 EDT" name="preClass" finished-at="2021-08-10T23:16:58 EDT" duration-ms="1243" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preClass -->
-        <test-method signature="pricesTeamSportsGoodsFirstPageTest()[pri:0, instance:testCases.pricesTeamSportGoodsFirstPageTest@78047b92]" started-at="2021-08-10T22:57:41 EDT" name="pricesTeamSportsGoodsFirstPageTest" finished-at="2021-08-10T22:57:46 EDT" duration-ms="4892" status="PASS">
+        <test-method signature="pricesTeamSportsGoodsFirstPageTest()[pri:0, instance:testCases.pricesTeamSportGoodsFirstPageTest@8909f18]" started-at="2021-08-10T23:16:58 EDT" name="pricesTeamSportsGoodsFirstPageTest" finished-at="2021-08-10T23:17:02 EDT" duration-ms="4664" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pricesTeamSportsGoodsFirstPageTest -->
-        <test-method is-config="true" signature="postClass()[pri:0, instance:testCases.pricesTeamSportGoodsFirstPageTest@78047b92]" started-at="2021-08-10T22:57:46 EDT" name="postClass" finished-at="2021-08-10T22:57:46 EDT" duration-ms="152" status="PASS">
+        <test-method is-config="true" signature="postClass()[pri:0, instance:testCases.pricesTeamSportGoodsFirstPageTest@8909f18]" started-at="2021-08-10T23:17:02 EDT" name="postClass" finished-at="2021-08-10T23:17:02 EDT" duration-ms="215" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postClass -->
