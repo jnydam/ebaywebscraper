@@ -1,7 +1,7 @@
 **John Nydam's Ebay Web Scraper Project**
 
 This project is a simple test automation framework for 
-the Ebay Home Page.
+the Ebay Site.
 Due to the fact that it mostly retrieves and prints out data from the site, it acts
 as a web scraper. 
 This project was created using Java, Selenium, Maven, and TestNG. 
