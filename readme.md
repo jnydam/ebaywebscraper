@@ -20,6 +20,11 @@ Once these are installed, download or clone the project.
 Then navigate into the working directory on the terminal (/ebaywebscraper/)
 and run ```mvn test```
 Since the chrome driver application is already in the repository, everything should be set, and
-you can view the tests run! Enjoy!
+you can view the tests run! 
+
+Please note that if you are using a windows computer. you may need to download the latest version
+of the windows chromedriver, as the current version in this repository is for Mac.
+
+Enjoy!
 
 
