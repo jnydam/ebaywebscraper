@@ -1,3 +1,7 @@
+Professional Portfolio: https://www.jnydam.com
+
+----------------------------------------------------------------
+
 **John Nydam's Ebay Web Scraper Project**
 
 This project is a simple test automation framework for 
